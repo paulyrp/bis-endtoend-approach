@@ -1,6 +1,11 @@
 # Evaluating the Role of Multimodal Clinical Data in Breast Cancer Diagnostic Classifier
 
-## [Article](https://github.com/paulYRP/bis-endtoend-approach/blob/main/bis-endtoend-approach.pdf)
+## Overview
+  - [Evaluating the Role of Multimodal Clinical Data in Breast Cancer Diagnostic Classifier](https://github.com/paulYRP/bis-endtoend-approach/blob/main/bis-endtoend-approach.pdf)
+
+![The sequential workflow of the methodology, breaking down each stage, from data preparation to experimental setup
+and analysis.](img/workflow.png)
+
 
 
 
