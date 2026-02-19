@@ -3,8 +3,12 @@
 ## Overview
   - [Evaluating the Role of Multimodal Clinical Data in Breast Cancer Diagnostic Classifier](https://github.com/paulYRP/bis-endtoend-approach/blob/main/bis-endtoend-approach.pdf)
 
+### Workflow
 ![The sequential workflow of the methodology, breaking down each stage, from data preparation to experimental setup
-and analysis.](img/workflow.png)
+and analysis](img/workflow.png)
+
+### Diagram
+![Diagram of fusion architectures that simultaneously incorporate breast imaging and non-image features](img/diagram.png)
 
 
 
